@@ -1,0 +1,1 @@
+No Content: https://babybtc.org/wp-content/plugins/burst-statistics/endpoint.php
